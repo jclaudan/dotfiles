@@ -1,6 +1,6 @@
 [user]
-	email = stan@stormier.ninja
-	name = Stanislas Ormières
+	email = jclaudan@student42.fr
+	name = jclaudan
 [alias]
 	aliases = !git config --get-regexp alias | sed -re 's/alias\\.(\\S*)\\s(.*)$/\\1 = \\2/g'
 	ap = add -p
